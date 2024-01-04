@@ -1,3 +1,8 @@
+1.在vrep中File->open sence ->选择agv12.ttt
+
+2.python planner.py
+
+
 文件介绍：
 
 agv12.ttt ： vrep的项目文件，需要先在vrep中加载
